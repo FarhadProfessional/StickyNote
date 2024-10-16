@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/StickyNote">
+        <file>Resources/images/align-center.png</file>
+        <file>Resources/images/align-left.png</file>
+        <file>Resources/images/align-right.png</file>
+        <file>Resources/images/bold.png</file>
+        <file>Resources/images/close.png</file>
+        <file>Resources/images/folder-open.svg</file>
+        <file>Resources/images/minimize.png</file>
+        <file>Resources/images/Save.svg</file>
+        <file>Resources/images/settings-red.png</file>
+        <file>Resources/images/sticky-note.png</file>
+        <file>Resources/images/sticky-pin.png</file>
+        <file>Resources/images/strikethrough.png</file>
+        <file>Resources/images/strikethrough2.png</file>
+        <file>Resources/images/underline.png</file>
+        <file>Resources/images/sticky-note.ico</file>
+    </qresource>
+</RCC>
